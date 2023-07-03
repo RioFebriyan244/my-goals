@@ -1,1 +1,2 @@
 # my-goals
+learn github
